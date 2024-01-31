@@ -916,6 +916,7 @@ case 5:
 {
 cleardevice();
 city5();
+break;
 }
 case 0:
 {
